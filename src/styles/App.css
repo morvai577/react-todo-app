@@ -36,6 +36,7 @@
   padding: 2em;
 }
 
+/* stylelint-disable-next-line selector-class-pattern */
 .read-the-docs {
   color: #888;
 }
